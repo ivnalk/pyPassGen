@@ -2,6 +2,7 @@
 GUI para pwgen usando un archivo y frase como semilla para contraseñas seguras que puedan ser recreadas.
 
 # Requerimientos
+* pyQt5
 * pwgen
 * python3
 
